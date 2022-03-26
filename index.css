@@ -1,0 +1,20 @@
+body {
+    background-color:papayawhip;
+    font-family: Verdana, Geneva;
+}
+h1, h2, .poem {
+    text-align: center;
+}
+.prose {
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#demoText {
+    text-align: center;
+    /*font-size: 20px;*/
+}
+#demoButton {
+    display: block;
+    margin: auto;
+}
